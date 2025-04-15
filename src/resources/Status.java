@@ -1,7 +1,7 @@
-package recurses;
+package resources;
 
 public enum Status {
     NEW,
-    IN_PROGRES,
+    IN_PROGRESS,
     DONE
 }
